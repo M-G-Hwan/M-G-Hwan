@@ -10,8 +10,9 @@
     <td align="left">
       <h4>🎓 YJ - Global System Convergence</h4>
       <ul>
-        <li>Python 기반 알고리즘 학습</li>
+        <li>Python 기반 기초학습 중..</li>
         <li>자율주행 관련 프로젝트 준비 중</li>
+        <li>Java 기반 웹 프로젝트 준비 중</li>
       </ul>
     </td>
   </tr>
