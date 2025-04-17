@@ -1,12 +1,12 @@
 <div align="center">
 
-## 👋 안녕하세요! M-G-Hwan입니다!
+## 👋 M-G-Hwan (문기환) 입니다!
 
 <table>
   <tr>
     <td align="center" width="180">
       <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%"><br/>
-      <sub>👤 사진</sub>
+      <sub><img src="https://github.com/M-G-Hwan.png" width="120" style="border-radius:50%"></sub>
     </td>
     <td align="left">
       <h4>🎓 학교 / 기록</h4>
