@@ -5,13 +5,11 @@
 <table>
   <tr>
     <td align="center" width="180">
-      <img src="https://avatars.githubusercontent.com/u/00000000?v=4" width="120" style="border-radius:50%"><br/>
       <sub><img src="https://github.com/M-G-Hwan.png" width="120" style="border-radius:50%"></sub>
     </td>
     <td align="left">
-      <h4>🎓 학교 / 기록</h4>
+      <h4>🎓 YJ - Global System Convergence</h4>
       <ul>
-        <li>○○대학교 컴퓨터공학과 재학 중</li>
         <li>Python 기반 알고리즘 학습</li>
         <li>자율주행 관련 프로젝트 준비 중</li>
       </ul>
